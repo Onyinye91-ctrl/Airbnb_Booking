@@ -35,3 +35,7 @@ I created an interactive Dashbord with **Tableau** using Airbnb dataset for New 
 * Total Reviews
 
 Link to my Dashboard can be found [here](https://public.tableau.com/views/Airbnb_16942990149360/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+![Airbnb Dashbord](https://github.com/Onyinye91-ctrl/Airbnb_Booking/blob/main/d.PNG)
+
+
